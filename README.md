@@ -9,7 +9,7 @@ A Tech enthusiast. Data Analytics. Python
 
 ### Some oppertunities I got 🎉
 GCP Facilitator 2021. 
-GDSC KSSEM Core Team 2020
+GDSC KSSEM Core Team 2020.
 GDSC KSSEM Core Team 2021
 
 ### Some blogs written 🔅
