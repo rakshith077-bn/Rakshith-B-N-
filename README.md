@@ -5,8 +5,7 @@ Hii there! I'm Rakshith B N 👋
 Data Analytics and a peculiar hobby of identifying and solving problems using the power of Data 🧠
 
 ### Some introduction ⁛
-A Tech enthusiast 
-Data Analytics 
+A Tech enthusiast. Data Analytics 
 Python
 
 ### Some oppertunities I got 🎉
