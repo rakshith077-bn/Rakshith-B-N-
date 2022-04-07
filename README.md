@@ -8,7 +8,7 @@ Data Analytics and a peculiar hobby of identifying and solving problems using th
 A Tech enthusiast. Data Analytics. Python
 
 ### Some oppertunities I got 🎉
-GCP Facilitator 2021
+GCP Facilitator 2021. 
 GDSC KSSEM Core Team 2020
 GDSC KSSEM Core Team 2021
 
