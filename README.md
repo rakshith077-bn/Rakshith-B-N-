@@ -21,5 +21,7 @@ Facilitating the 30 Days of Google Cloud Program - https://medium.com/dsc-kssem/
 
 #### Some ideas and interests  
 How Data Analytics could change the very core of the nation 
+
 The art of Management 
+
 The art of being a leader
