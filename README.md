@@ -2,7 +2,7 @@
 A personal introduction 
 Hii there! I'm Rakshith B N 
 
-Data Analytics and a peculiar hobby of identifying and solving problems using the power of Data. 
+## Data Analytics and a peculiar hobby of identifying and solving problems using the power of Data. 
 
 Some introduction ⁛
 A Tech enthusiast 
