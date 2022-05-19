@@ -8,7 +8,7 @@ Data Analytics and a peculiar hobby of identifying and solving problems using th
 A Tech enthusiast. Google Developer's Students Club KSSEM. Data Analytics. Python
 
 ### Some oppertunities I got 🎉
-GCP Facilitator 2021. https://drive.google.com/drive/folders/1-eeGPpwJqeeeTJiDJYlgGXzs-p2pqYOq?usp=sharing 
+GCP Facilitator 2021. https://drive.google.com/drive/folders/1-eeGPpwJqeeeTJiDJYlgGXzs-p2pqYOq?usp=sharing. 
 GDSC KSSEM Core Team 2020.
 GDSC KSSEM Core Team 2021
 
