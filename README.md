@@ -1,16 +1,15 @@
 # Rakshith-B-N-
 ### A personal introduction 
 Hii there! I'm Rakshith B N 👋
-
-Data Analytics and a peculiar hobby of identifying and solving problems using the power of Data 🧠
+GDSC Lead @ K S School of Engineering and Management
+Data Analytics, Data Science and a peculiar hobby of organizing stuff all the time. 
 
 ### Some introduction ⁛
-A Tech enthusiast. Google Developer's Students Club KSSEM. Data Analytics. Python
+A Tech enthusiast. Lead | Google Developer's Students Club KSSEM. Data Analytics. Data Science. 
 
 ### Some oppertunities I got 🎉
 GCP Facilitator 2021. https://drive.google.com/drive/folders/1-eeGPpwJqeeeTJiDJYlgGXzs-p2pqYOq?usp=sharing. 
-GDSC KSSEM Core Team 2020.
-GDSC KSSEM Core Team 2021
+https://gdsc.community.dev/k-s-school-of-engineering-and-management-bengaluru/
 
 ### Some blogs written 🔅
 The Google Data Analytics course take - https://medium.com/@rakshithbn/the-google-data-analytics-course-foundations-data-data-data-everywhere-24881153523b
