@@ -1,11 +1,12 @@
 # Rakshith-B-N-
 ### A personal introduction 
 Hii there! I'm Rakshith B N 👋
+Graduate Student at St. Francis Xavier University
 GDSC Lead @ K S School of Engineering and Management
 Data Analytics, Data Science and a peculiar hobby of organizing stuff all the time. 
 
 ### Some introduction ⁛
-A Tech enthusiast. Lead | Google Developer's Students Club KSSEM. Data Analytics. Data Science. 
+A Tech enthusiast. Graduate Student. Lead | Google Developer's Students Club KSSEM. Data Analytics. Data Science. 
 
 ### Some oppertunities I got 🎉
 GCP Facilitator 2021. https://drive.google.com/drive/folders/1-eeGPpwJqeeeTJiDJYlgGXzs-p2pqYOq?usp=sharing. 
